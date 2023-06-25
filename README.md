@@ -31,11 +31,11 @@ Anything that says BIS is current BIS.
 
 # Abbreviations
 
-BIS = Best In Slot item
-Alt = Alternate Best In Slot item
-Mit = Mitigation item
-Thrt = Threat item
-Stam = Stamina item
+- BIS = Best In Slot item
+- Alt = Alternate Best In Slot item
+- Mit = Mitigation item
+- Thrt = Threat item
+- Stam = Stamina item
 
 # Integrations
 
